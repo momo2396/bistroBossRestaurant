@@ -6,7 +6,6 @@ const Footer = () => {
           <p>Copyright © 2023 - All right reserved by ACME Industries Ltd</p>
         </aside>
       </footer>
-      ;
     </div>
   );
 };
